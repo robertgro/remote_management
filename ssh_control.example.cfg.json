@@ -1,0 +1,10 @@
+{
+    "clients": {
+        "client1_hostname": {
+            "ip": "0.0.0.1"
+        },
+        "client2_hostname": {
+            "ip": "0.0.0.2"
+        }
+    }
+}
